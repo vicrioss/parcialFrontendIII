@@ -1,0 +1,43 @@
+.form-container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    background-color:#fdf2da; 
+    border: 3px solid blueviolet;
+  }
+  
+  .form-container label {
+    display: block;
+    margin: 10px 0 5px;
+    font-size: 1.1em;
+    color:rgb(89, 1, 170);
+  }
+  
+  .form-container input {
+    width: 100%;
+    padding: 2px;
+    margin: 5px 0 15px;
+    border-radius: 4px;
+    border: 3px solid violet;
+  }
+  
+  .form-container button {
+    padding: 10px 20px;
+    background-color: violet;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1.1em;
+  }
+  
+  .form-container button:hover {
+    background-color:gray;
+  }
+  
+  .form-container h4 {
+    color:violet;
+    font-size: 1.1em;
+    margin-top: 10px;
+  }
